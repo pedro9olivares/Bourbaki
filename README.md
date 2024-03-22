@@ -1,5 +1,5 @@
 # Colegio de Matemáticas Bourbaki
-En construcción... 
+🛠️ En construcción... 
 
 Mientras, visita [nuestra página.](https://www.colegio-bourbaki.com/)
 
