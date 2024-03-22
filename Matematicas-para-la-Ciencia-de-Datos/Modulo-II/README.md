@@ -1,5 +1,5 @@
 # Módulo II. Álgebra Lineal
-El **álgebra lineal** es una rama de las matemáticas que estudia conceptos tales como vectores, matrices, espacios duales, sistemas de ecuaciones lineales y en su enfoque de manera más formal, espacios vectoriales y sus transformaciones lineales.
+El álgebra lineal es una rama de las matemáticas que estudia conceptos tales como vectores, matrices, espacios duales, sistemas de ecuaciones lineales y en su enfoque de manera más formal, espacios vectoriales y sus transformaciones lineales.
 
 Dicho de otra forma, el álgebra lineal es la rama de las matemáticas que se ocupa de las ecuaciones lineales como:
 
