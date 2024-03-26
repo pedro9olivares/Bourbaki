@@ -1,3 +1,3 @@
-Utiliza los datos contenidos en `data.zip` para realizar el reto V.
+Utiliza los datos contenidos en `datos.zip` para realizar el reto V.
 
 ¡Buena suerte!
