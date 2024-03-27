@@ -1,4 +1,4 @@
-# Hateful memes by Facebook AI 💻
+# Hateful memes by Facebook AI
 Los datos se pueden descargar [aquí](https://drive.google.com/drive/folders/1ff0l1GXazCml-kIqkL2RnvdaRCxpYYcE?usp=sharing).
 
 La carpeta `img` contiene todas las imágenes. Nos interesará usar el archivo json `train.jsonl` para entrenar a nuestro modelo. Recuerde que los archivos json se convierten
