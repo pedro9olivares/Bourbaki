@@ -1,7 +1,7 @@
 # Colegio de Matemáticas Bourbaki
 🛠️ En construcción... 
 
-Mientras, visita [nuestra página.](https://www.colegio-bourbaki.com/)
+Visita [nuestra página](https://www.colegio-bourbaki.com/)
 
 ## ¡Síguenos en nuestras redes!
 - [LinkedIn](https://www.linkedin.com/company/colegio-de-matem%C3%A1ticas-bourbaki/)
