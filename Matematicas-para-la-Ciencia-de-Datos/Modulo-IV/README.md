@@ -1,2 +1,6 @@
 # Optimización y Cálculo Diferencial
-To do
+### Optimización
+aquí
+### Cálculo Diferencial
+aquí
+### Gradientes descendentes y backpropagation
