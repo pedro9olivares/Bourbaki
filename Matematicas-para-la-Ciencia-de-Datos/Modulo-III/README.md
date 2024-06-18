@@ -1,2 +1,2 @@
 # Estadística e inferencia bayesiana
-To do
+To dooo
