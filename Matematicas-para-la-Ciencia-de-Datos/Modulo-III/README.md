@@ -1,2 +1,4 @@
 # Estadística e inferencia bayesiana
-To dooo
+La estadística se enfoca en la recopilación y análisis de datos para sacar conclusiones. Existen dos enfoques principales: el frecuentista y el bayesiano. El frecuentista se basa en probabilidades a largo plazo, mientras que el bayesiano actualiza probabilidades iniciales con nueva evidencia.
+
+La inferencia bayesiana utiliza el teorema de Bayes para combinar información previa con datos nuevos y actualizar la probabilidad de una hipótesis. Esto permite manejar la incertidumbre de manera coherente, facilitando decisiones informadas a través de distribuciones a priori y a posteriori.
