@@ -1,3 +1,3 @@
-En la carpeta comprimida `data.zip` encontrarás los datasets de esta semana, sampleados al 90%. 
+En este repositorio encontrarás los datos para el reto III. 
 
-¡Buena suerte!
+¡Mucha suerte!
