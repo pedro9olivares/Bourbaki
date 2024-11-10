@@ -1,10 +1,4 @@
-# Optimización y Cálculo Diferencial
-En el caso más simple, un problema de optimización consiste en maximizar o minimizar una función real eligiendo sistemáticamente valores de entrada (tomados de un conjunto permitido) y computando el valor de la función.
+# Estadística e inferencia bayesiana
+La estadística se enfoca en la recopilación y análisis de datos para sacar conclusiones. Existen dos enfoques principales: el frecuentista y el bayesiano. El frecuentista se basa en probabilidades a largo plazo, mientras que el bayesiano actualiza probabilidades iniciales con nueva evidencia.
 
-A su vez, en la misma manera que la geometría estudia el espacio y el álgebra estudia las estructuras abstractas, el cálculo es el estudio del cambio y la continuidad.
-
-<img src="https://github.com/pedro9olivares/Bourbaki/assets/61219691/d3a2f413-76c1-4b74-98d8-319fcc77c7b7" width="350" height="300"/>
-
-
-
-
+La inferencia bayesiana utiliza el teorema de Bayes para combinar información previa con datos nuevos y actualizar la probabilidad de una hipótesis. Esto permite manejar la incertidumbre de manera coherente, facilitando decisiones informadas a través de distribuciones a priori y a posteriori.
