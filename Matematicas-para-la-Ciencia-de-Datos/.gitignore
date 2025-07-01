@@ -1,1 +1,4 @@
 *.csv
+/Modulo-III/Clase_6_Aprendizaje_por_Refuerzo/*
+!/Modulo-III/Clase_6_Aprendizaje_por_Refuerzo/
+!/Modulo-III/Clase_6_Aprendizaje_por_Refuerzo/Policy_gradient.ipynb
