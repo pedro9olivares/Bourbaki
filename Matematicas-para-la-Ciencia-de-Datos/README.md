@@ -1,2 +1,2 @@
 # Matemáticas para la Ciencia de Datos
-<img src="./imgs/Temario.png">
+Aquí encontrarás todo el código del curso.
