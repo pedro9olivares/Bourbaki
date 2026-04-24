@@ -56,7 +56,7 @@ Si el corpus fuera "el gato come pan, el gato bebe leche" y $n=2$:
 
 | Principio | Aplicación en el Prompt |
 | :--- | :--- |
-| **Aprovecha roles y personas** | "Actúa como un Ingeniero de Software experto en NLP". |
+| **Aprovecha roles y personas** | "Actúa como un científico de datos experto en NLP (Procesamiento de Lenguaje Natural)". |
 | **Proporciona contexto** | Se incluye la URL de la fuente y las especificaciones de limpieza del texto. |
 | **Sé específico sobre tu objetivo** | Se define claramente que se busca un modelo de n-gramas con lógica probabilística. |
 | **Divide tareas complejas** | El proceso se desglosó en Preprocesamiento, Segmentación, Construcción y Generación. |
