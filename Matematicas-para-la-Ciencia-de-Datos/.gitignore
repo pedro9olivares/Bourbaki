@@ -1,4 +1,5 @@
 *.csv
+!/Modulo-I-Probabilidad-y-Estadística/Semana_2_Momentos_y_Ley_de_Potencias/cashback_dataset.csv
 /Modulo-III/Clase_6_Aprendizaje_por_Refuerzo/*
 !/Modulo-III/Clase_6_Aprendizaje_por_Refuerzo/
 !/Modulo-III/Clase_6_Aprendizaje_por_Refuerzo/Policy_gradient.ipynb
