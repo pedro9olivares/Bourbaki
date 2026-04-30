@@ -1,7 +1,7 @@
 # GenAI in MCD
 ## Módulo I: Enfoque en web
 1. Vibe data science y prompt engineering
-2. Prompt engineering II: Aumentando prompts
+2. Prompt engineering II: Aumentando prompts, patrones y playgrounds
 3. Generación de reportes de entrenamiento/resultados/tuning
 4. Visualización interactiva y Storytelling (plotly, streamlit)
 
