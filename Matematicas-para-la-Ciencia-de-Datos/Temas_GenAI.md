@@ -11,7 +11,6 @@
 3. Enjambres de agentes
 4. Autoresearch
 
-
 ## Módulo III: Enfoque en terminal
 1. Uso de claude code y gemini cli, principios básicos
 2. Skills y manejo de tokens
