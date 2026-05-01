@@ -48,6 +48,7 @@ https://cameronrwolfe.substack.com/i/153722335/fundamentals-of-reasoning-models
 
 ## Playgrounds
 https://platform.openai.com/chat/edit?models=gpt-5.5
+
 https://developers.openai.com/api/docs/models
 
 https://aistudio.google.com/prompts/new_chat
