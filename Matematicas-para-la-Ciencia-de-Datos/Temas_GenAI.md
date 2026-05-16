@@ -3,7 +3,8 @@
 1. Vibe data science y prompt engineering
 2. Prompt engineering II: Aumentando prompts, patrones y playgrounds
 3. Deep research y Canvas
-4. Lead with notebookLM for better audio overviews + other tools, brief RAG overview. Visualización interactiva y Storytelling (plotly, streamlit, deck.gl). Add gamma. 
+4. NotebookLM and RAG
+5. Visualización interactiva y Storytelling (plotly, streamlit, deck.gl, gamma).
 
 ## Módulo II: Enfoque en agentes
 1. Uso de agentes en Cursor y Antigravity, planning mode
@@ -15,4 +16,3 @@
 1. Uso de claude code y gemini cli, principios básicos
 2. Skills y manejo de tokens
 3. Spec-driven development
-4. Headless eval
